@@ -15,4 +15,4 @@
 |read12|[read12](https://medo199329.github.io/reading-notes201/read12)|
 |read13|[read](https://medo199329.github.io/reading-notes201/read13)|
 |read14a|[read14a]https://medo199329.github.io/reading-notes201/read14a()|
-|read14b|[read14b]()|
+|read14b|[read14b](https://medo199329.github.io/reading-notes201/read14b)|
